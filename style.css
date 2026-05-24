@@ -1,0 +1,10 @@
+body { margin: 0; background: #000; overflow: hidden; color: #fff; }
+#hud {
+  position: absolute; top: 20px; left: 20px;
+  font-family: Arial, sans-serif; font-size: 18px;
+}
+#hud button {
+  margin-top: 10px; padding: 8px 14px;
+  background: #ffcc00; border: none; cursor: pointer;
+  font-weight: bold;
+}
